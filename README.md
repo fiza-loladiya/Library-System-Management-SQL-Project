@@ -6,6 +6,8 @@
 
 This project implements a **Library Management System** using SQL. It covers **database design, table relationships, CRUD operations, CTAS (Create Table As Select)** and **advanced queries** for reporting and analysis.
 
+![library-management-system](library-management-system.png)
+
 ---
 
 ## Objectives
