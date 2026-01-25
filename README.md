@@ -274,10 +274,6 @@ GROUP BY e.emp_name, b.branch_id, b.branch_address
 ORDER BY books_processed DESC
 LIMIT 3;
 
-```
+````
 **Conclusion**
 This project showcases practical SQL skills by building a complete **Library Management System** from scratch. It covers **database creation, table design with relationships, and day-to-day data operations (CRUD)**, along with **CTAS-based reporting** and **advanced queries** for insights like overdue tracking, active members, and branch-level performance. Overall, it provides a strong foundation in **relational database management** and **analysis-driven querying**, similar to what’s used in real-world systems.
-
-
-ORDER BY books_processed DESC
-LIMIT 3;
