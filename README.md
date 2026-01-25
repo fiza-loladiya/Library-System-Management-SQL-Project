@@ -17,7 +17,7 @@ This project implements a **Library Management System** using SQL. It covers **d
 ---
 
 ## ERD / Data Model
-![Library ERD](assets/library_erd.png)
+![Library ERD](library_erd.png)
 
 ---
 
